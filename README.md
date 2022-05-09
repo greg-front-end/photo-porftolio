@@ -1,2 +1,2 @@
-# photo-porftolio
-HTML SCSS JAVASCRIPT project
+# greg-front-end-JSFEPRESCHOOL
+Private repository for @greg-front-end
